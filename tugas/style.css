@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  background-color: coral;
+  text-align: center;
+  font-size: 50px;
+}
+article {
+  background-color: #f5f6fa;
+  width: 1300px;
+  margin: auto;
+  padding: 20px;
+  font-size: 20px;
+  text-align: justify;
+}
+article header {
+  font-size: 30px;
+  font-weight: bold;
+}
